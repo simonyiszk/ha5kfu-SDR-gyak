@@ -1,5 +1,5 @@
 # ha5kfu-SDR-gyak
-A szoftverradios_gyak.pdf dokumentumban találhattok egy rövid elméleti összefoglalót tartalmaz, és a feladat leírását.
+A szoftverradios_gyak.pdf dokumentum egy rövid elméleti összefoglalót tartalmaz és a feladat leírását.
 
 A kész program külső szerverről érkező IQ jelek esetén ezekkel a parancsokkal indítható:
 
