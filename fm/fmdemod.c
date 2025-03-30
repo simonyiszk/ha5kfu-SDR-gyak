@@ -3,9 +3,9 @@
 Kafus szerverrel:
 ./parancs.sh
 Otthoni RTL-SDR-rel:
-./parancs_rtlsdr.sh
+./parancs.sh rtl
 "Konzerv" IQ fileal:
-./parancs_konzerviq.sh
+./parancs.sh iq
 
 */
 
